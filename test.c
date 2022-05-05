@@ -107,7 +107,7 @@ void key_proc()
 		TR0=0;
 	}
 	
-	/*
+	
 	void data_int()
 	{
 		data_H=dat/10;
